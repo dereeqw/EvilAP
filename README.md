@@ -1,4 +1,4 @@
-# EvilAP v1.9
+# EvilAP v1.9.0-beta
 
 Rogue Access Point + Captive Portal + DNS Spoof + Transparent Proxy
 
@@ -37,8 +37,8 @@ Debe ejecutarse como root.
 
 ## 🚀 Instalación
 
-git clone https://github.com/tuusuario/evilap.git
-cd evilap
+git clone https://github.com/dereeqw/EvilAP.git
+cd EvilAP
 chmod +x evilAP.py
 
 ---
@@ -118,6 +118,4 @@ Permitido:
 Prohibido:
 - Uso comercial
 - Uso en redes sin autorización
-- Redistribución sin permiso
-
 ---
